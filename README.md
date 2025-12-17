@@ -4,7 +4,7 @@ This project contains a simple script that combines multiple images into an anim
 
 ## Project Output
 
-When the script is run, it creates a sukuna.gif file using a group images, as shown below:
+When the script is run, it creates a sukuna.gif file using a group of images, as shown below:
 
 ![Project Demo](https://imgur.com/a/aOP6N3P)
 
@@ -23,14 +23,14 @@ Follow these steps to run the project on your local machine.
 
 ```sh
 
-**cd app**
+**cd PythonGif**
 
 ```
 3. **Install the required libraries:**
 
 ```sh
 
-**pip install -r imageio**
+**python -m pip install imageio**
 
 ```
 
@@ -40,7 +40,7 @@ After completing the necessary setup, run the following command in the terminal 
 
 ```sh
 
-python create_gif.py
+python3 app.py
 
 ```
 
@@ -48,8 +48,8 @@ After running this command, a new file named sukuna.gif will be created in your 
 
 ## File Structure
 
-- **create\_gif.py**: The main Python script that creates the GIF.
+- **app.py**: The main Python script that creates the GIF.
 
 - **sukun-xx.png**: The images used for the GIF
 
-**.gitignore**: Specifies files that should not be tracked by Git (for example, generated GIF files).**
+- **.gitignore**: Specifies files that should not be tracked by Git (for example, generated GIF files).**

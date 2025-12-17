@@ -6,7 +6,7 @@ This project contains a simple script that combines multiple images into an anim
 
 When the script is run, it creates a sukuna.gif file using a group of images, as shown below:
 
-![Project Demo](https://imgur.com/a/aOP6N3P)
+[Project Demo](https://imgur.com/a/HIBJWTG)
 
 ## Setup
 

@@ -16,7 +16,7 @@ Follow these steps to run the project on your local machine.
 
 ```sh
 
-**git clone \[[https://github.com/tgarc81/create\_gif.git](https://github.com/tgarc81/PythonGif.git)**
+**git clone \(https://github.com/tgarc81/PythonGif.git)**
 
 ```
 2. **Go to the project directory:**

@@ -34,6 +34,8 @@ Follow these steps to run the project on your local machine.
 
 ```
 
+4. **Take out the images from the image folder and put them in the root folder.**
+
 ## Usage
 
 After completing the necessary setup, run the following command in the terminal to execute the script:
